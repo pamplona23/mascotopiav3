@@ -1,0 +1,17 @@
+{
+    "name": "sams/mascotopiav3",
+    "description": "proyecto mascotopia v3",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Eliam Pamplona Diaz",
+            "email": "eliampamplonadiaz5926@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.14",
+        "illuminate/events": "^8.14",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.2"
+    }
+}
